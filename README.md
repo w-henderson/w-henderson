@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm William
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=w-henderson">
-I'm William Henderson, and I'm a Computer Science student, software developer, video editor, and composer. I've been programming since I was eight and used Python since I was ten. Since then, I've become familiar with JavaScript and C#, along with honing my skills in Python. Python remains my favourite language to work in due to its unique and efficient syntax, but I am starting to love JavaScript as its versatility through NodeJS makes it a great choice for the front-end and back-end of any web-based project.
+I'm William Henderson, and I'm a Computer Science student, software developer, video editor, and composer. I've been programming since I was eight and used Python since I was ten. Since then, I've become familiar with JavaScript and C#, along with honing my skills in Python. Python remains my favourite language to work in due to its unique and efficient syntax, but I am starting to love JavaScript as its versatility through NodeJS makes it a great choice for any web-based project.
 
 ## ⭐ My Favourite Projects
 
