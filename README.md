@@ -23,18 +23,7 @@ I'm William Henderson, and I'm a Computer Science student, software developer, v
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w-henderson&repo=AIR" />
 </a>
 
-## 🔑 My Skills
-
-### Proficiency
-- **Python** (since 2014)
-- **HTML/CSS** (since 2015)
-- **JavaScript** (vanilla since 2016, TypeScript since 2020)
-- **Unity 3D (C#)**: (since 2017)
-
-### Understanding
-- **Electron** (since 2019)
-- **Progressive Web Apps** (since 2019)
-- **React** (since 2020)
+Please visit my [portfolio](https://w-henderson.github.io) for more information.
 
 ## 💬 Contact Me
 If you want to get in touch, here are your options:
