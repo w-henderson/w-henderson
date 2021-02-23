@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm William
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=w-henderson">
-I'm William Henderson, and I'm a Computer Science student, software developer, video editor, and composer. I've been programming since I was eight and used Python since I was ten. Since then, I've become familiar with several other languages, along with honing my skills in Python. Python remains my favourite language to work in due to its unique and efficient syntax, but I am starting to love JavaScript/TypeScript as its versatility through NodeJS makes it a great choice for any web-based project.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=w-henderson&title_color=ee2200">
+I'm William Henderson, and I'm a Computer Science student and Software Developer. I've been programming for the best part of a decade using numerous languages, but my favourites are Python, TypeScript, and more recently, Rust. I've developed and maintained a wide variety of projects in a number of fields which, between them, have accumulated over 7000 downloads and remain in use every day across the world.
 
-## Please visit my [portfolio](https://w-henderson.github.io) for more information!
+## Please visit my [portfolio](https://w-henderson.github.io) for more information.
 
 ## 💬 Contact Me
 If you want to get in touch, here are your options:
