@@ -6,5 +6,5 @@ I'm William Henderson, and I'm a Computer Science student and Software Developer
 
 ## 💬 Contact Me
 If you want to get in touch, here are your options:
-- [Message me on Twitter](https://twitter.com/realcooltomato)
+- [Message me on Twitter](https://twitter.com/hxswell)
 - [Send me an email](mailto:william-henderson@outlook.com)
